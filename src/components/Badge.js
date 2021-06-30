@@ -2,6 +2,7 @@ import React from "react";
 
 import confLogo from "../images/badge-header.svg";
 import "./styles/Badge.css";
+
 class Badge extends React.Component {
   render() {
     return (
